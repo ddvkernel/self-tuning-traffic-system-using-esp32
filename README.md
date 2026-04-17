@@ -33,7 +33,7 @@ Triggered when an IR sensor detects a vehicle on any road.
 4. The detected road is assigned a green signal  
 5. All other roads are set to red
 
-## Work Flos:
+## Work Flow:
         Start
           ↓
    Read Sensor Inputs
