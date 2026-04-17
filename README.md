@@ -15,6 +15,17 @@ A real-time traffic control system using ESP32 and IR sensors that dynamically m
 4. Breadboard
 5. Jumper Wires
 
+## Connections:
+1. Connect the ground on the ESP32 to the top rail of the breadboard.
+2. Connect the 3v3 pin on the ESP32 to the bottom rail of the breadboard.
+3. Connect the ground and 3v3 pins from these common ground and source.
+4. Follow the pin connections.
+
+   
+## Pin Connections:
+![pin_diagram](assets/pin_diagram.jpg)
+
+
 ## Software used:
 Arduino IDE
 
@@ -55,6 +66,3 @@ Continue     Ignore     Interrupt Current
                      Set Others to Red
                              ↓
                            Repeat
-
-
-## Pin Connections:
